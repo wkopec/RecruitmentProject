@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Recruitment Project</string>
+    <string name="map">Mapa</string>
+    <string name="recently_visited">Ostatnio odwiedzone</string>
+    <string name="localization_disable">Lokalizacja wyłączona</string>
+    <string name="do_set_localization_enable">Włączyć lokalizację teraz?</string>
+    <string name="cancel">Anuluj</string>
+    <string name="determiningLocation">Określanie lokalizacji...</string>
+    <string name="location_details">Opis miejsca</string>
+    <string name="localization_options_will_not_be_avaible">Opcje lokalizacji nie będą dostępne</string>
+    <string name="longitude">Długość geograficzna:</string>
+    <string name="szeroko_geograficzna">Szerokość geograficzna:</string>
+    <string name="internet_disable">Brak dostępu do Intermetu</string>
+</resources>
